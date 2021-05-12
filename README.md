@@ -3,12 +3,12 @@
 
 BOUNDARY CONDITIONS
 
-Top Boundary = 10°C 
-Right Boundary = 20°C 
-Bottom Boundary = 30°C 
+Top Boundary = 10°C ,
+Right Boundary = 20°C ,
+Bottom Boundary = 30°C ,
 Left Boundary = 40°C 
 
 DIMENSIONS
 
-Length = 1m 
+Length = 1m ,
 Breadth = 1m 
